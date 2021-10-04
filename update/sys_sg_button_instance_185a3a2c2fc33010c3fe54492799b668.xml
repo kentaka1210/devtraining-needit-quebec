@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete">0052fea42fc33010c3fe54492799b6a5</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>trailing_swipe</location>
+        <name>Delete</name>
+        <order>10</order>
+        <parent>07244e642f433010c3fe54492799b6ea</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-04 05:31:16</sys_created_on>
+        <sys_id>185a3a2c2fc33010c3fe54492799b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_185a3a2c2fc33010c3fe54492799b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-04 05:31:16</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=185a3a2c2fc33010c3fe54492799b668"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>185a3a2c2fc33010c3fe54492799b668</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-04 05:31:16</sys_created_on>
+        <sys_id>905a3a2c2fc33010c3fe54492799b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-04 05:31:16</sys_updated_on>
+        <tablename>sys_sg_button_instance</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>
